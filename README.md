@@ -2,7 +2,7 @@
 
 This repository contains a collection of assignments exploring key concepts in geometry processing, from mesh manipulation to surface reconstruction and character deformation.
 
-## Exercise Overview
+## Project Overview
 
 | Task | Description |
 |------|-------------|
